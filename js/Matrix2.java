@@ -27,7 +27,7 @@ public class Matrix2 {
         int c1=Integer.parseInt(br.readLine());
         
         int b[][]=new int[r1][c1];
-        if(r==r1) {
+        if(c==r1) {
         	
         	  System.out.print("enter values for first matrix");
               for(int i=0;i<r;i++) 
@@ -66,7 +66,7 @@ public class Matrix2 {
         
         
         }else{
-        	System.out.println("we can not perform matrix multipation because first matrix row not match with second matrix col");
+        	System.out.println("we can not perform matrix multipation because first matrix col not match with second matrix row");
         }
 	}
         
