@@ -37,7 +37,7 @@ public class Amstrang {
        if(c==k1) {
     	   System.out.println(k1+"is amstring num");
        }else {
-	   System.out.println(k1+"is notamstring num");
+	   System.out.println(k1+"is notamstring num hello");
        }
 	}
 }
