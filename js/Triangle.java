@@ -25,7 +25,7 @@ public class Triangle {
          
       } 
 
-      System.out.println(); 
+      System.out.println("hello how are you"); 
   } 
 } 
 	 
